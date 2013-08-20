@@ -4,6 +4,6 @@ setTimeout = function(execute, timeout) {
     if(stringExecute.indexOf("xThePage") == -1) {
         oldTimeout(execute, timeout);
     } else {
-        console.log("Solita Oy - Korjaa verkkosivut kun verkkosivut")
+        console.log("Solita Oy - Korjaa verkkosivut kuin verkkosivut")
     }
 };

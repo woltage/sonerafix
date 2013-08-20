@@ -14,4 +14,4 @@ Lataa plugari: http://bit.ly/sonera-fix
 Ja nauti Soneran toimivista sivuista.
 
 
-<a href="https://www.twitter.com/solitaoy">@SolitaOy</a> - Korjaa
+<a href="https://www.twitter.com/solitaoy">@SolitaOy</a>
